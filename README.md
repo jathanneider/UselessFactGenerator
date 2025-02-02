@@ -16,3 +16,4 @@ Program should display 1 random useless fact upon execution.
 
 If you run into issues running the program double check that you have given proper permissions to files in the project folder.
 
+Check DOCS Folder for Lab Document
